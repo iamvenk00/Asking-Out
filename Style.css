@@ -4,7 +4,7 @@ body
     justify-content:center;
     align-items:center;
     height:90vh;
-    background-color:#FF6AD4;
+    background-color:#f679d2;
 }
 
 #noButton
@@ -25,7 +25,7 @@ body
 .header_text
 {
     font-family:'Nunito';
-    font-size:60px;
+    font-size:50px;
     font-weight:bold;
     color:white;
     text-align:center;
@@ -45,7 +45,7 @@ body
 
 .btn
 {
-    background-color:#DE5298;
+    background-color:#e66098;
     color:white;
     padding:15px 32px;
     text-align:center;
