@@ -4,13 +4,13 @@ body
     justify-content:center;
     align-items:center;
     height:100vh;
-    background-color:#FF6AD4;
+    background-color:#f679d2;
 }
 
 .header_text
 {
     font-family:'Nunito';
-    font-size:60px;
+    font-size:50px;
     font-weight:bold;
     color:white;
     text-align:center;
